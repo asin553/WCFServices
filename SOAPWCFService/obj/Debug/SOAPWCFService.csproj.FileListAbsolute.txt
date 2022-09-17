@@ -1,0 +1,6 @@
+C:\Users\Ayush Singh\Downloads\CSE598ASADProject4\SOAPWCFService\bin\SOAPWCFService.dll.config
+C:\Users\Ayush Singh\Downloads\CSE598ASADProject4\SOAPWCFService\bin\SOAPWCFService.dll
+C:\Users\Ayush Singh\Downloads\CSE598ASADProject4\SOAPWCFService\bin\SOAPWCFService.pdb
+C:\Users\Ayush Singh\Downloads\CSE598ASADProject4\SOAPWCFService\obj\Debug\SOAPWCFService.csproj.CoreCompileInputs.cache
+C:\Users\Ayush Singh\Downloads\CSE598ASADProject4\SOAPWCFService\obj\Debug\SOAPWCFService.dll
+C:\Users\Ayush Singh\Downloads\CSE598ASADProject4\SOAPWCFService\obj\Debug\SOAPWCFService.pdb
